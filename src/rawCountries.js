@@ -725,7 +725,7 @@ const rawCountries = [
     '853'
   ],
   [
-    'Macedonia',
+    'North Macedonia',
     ['europe', 'ex-yugos'],
     'mk',
     '389'
@@ -1168,7 +1168,7 @@ const rawCountries = [
     '597'
   ],
   [
-    'Swaziland',
+    'Eswatini',
     ['africa'],
     'sz',
     '268'
